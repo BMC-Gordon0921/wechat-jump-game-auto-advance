@@ -1,7 +1,7 @@
 # wechat-jump-game-auto-advance
 微信跳一跳小游戏辅助插件（Python语言）
 # 程序来源
-参考了（https://github.com/wangshub/wechat_jump_game）这个大项目 的大部分文件，在此感谢这些大大们，日后将争取正式授权。
+参考了https://github.com/wangshub/wechat_jump_game 这个大项目的大部分文件，在此感谢这些大大们，日后将争取正式授权。
 # 个人改动
 本人的改动在于新增了GUI界面。
 # 后续计划
